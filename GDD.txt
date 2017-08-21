@@ -1,0 +1,42 @@
+GDD
+
+
+Business tycoon type game
+-----------------------------
+
+Goals
+--------
+
+Select a business type and run it for as long as possible 
+
+Make profit to upgrade the business
+
+Buy new Business to start an empire
+
+Sell Businesses to make instant cash
+
+
+Systems
+-----------
+
+Must
+-----
+
+events -- Storm, goods price fluctuation, fire, robbed, 
+
+customer trends --- Buy more of something, pay more, pay less for others
+
+Business types --- Restaraunts (Mexican, Italian, French, British, American, Fast food, etc...), Pubs/Bars (Cocktail, sports, gaming, etc...), Car Dealership (Sports, second hand, Make(Honda, Ford, BMW, etc...), etc...), Prisons, Medical(Hospitals, Doctors, Dentists, etc...), Shops(Clothing(Designer, second hand, cheap), Supermarkets, etc ...)
+
+Rival Businesses
+
+--------
+Maybe  
+--------
+
+Player Levels
+
+Skills
+
+Perks
+
